@@ -8,3 +8,6 @@ Built with
 - CSS custom properties
 - Flexbox
 - CSS Grid
+
+Author
+- Twitter - [@Joshua_lundu](https://www.twitter.com/@joshua_lundu)
