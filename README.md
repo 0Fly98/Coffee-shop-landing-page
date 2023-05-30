@@ -1,2 +1,3 @@
 # Coffee-shop-landing-page
-![img](Screenshot (133).png)
+![alt text](relative/path/to/image.png)
+
