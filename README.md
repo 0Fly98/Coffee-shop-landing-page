@@ -1,2 +1,2 @@
 # Coffee-shop-landing-page
-![](./screenshot.jpg)
+![img](./Screenshot (133).png)
